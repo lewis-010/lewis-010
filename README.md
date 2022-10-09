@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lewis-010
 - 👀 I’m interested in data science and real-world AI applications
-- 🌱 I’m currently learning Python, data science/engineering, machine & deep-learning and VScode
+- 🌱 I’m currently learning Python, data science/engineering, machine & deep-learning techniques
 - 📫 How to reach me; lcox101101@gmail.com
 
 <!---
